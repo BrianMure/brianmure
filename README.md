@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f28b4022600593.58c272e374fa3.gif)](https://BrianMure.io)
 
 <h1 align="center">Hi 👋, I'm Brian Nyagah</h1>
-<h3 align="center">A passionate tech enthusiast who started out as a frontend developer focusing on HTML, CSS and Javascript.</h3>
+<h3 align="center">A passionate tech enthusiast who storytelling with Data.</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
